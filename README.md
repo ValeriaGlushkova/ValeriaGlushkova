@@ -1,4 +1,5 @@
-![Header]()
+<div align="center">
+<img src="https://github.com/ValeriaGlushkova/ValeriaGlushkova/blob/main/giphy.gif" width='500'/>
 
 <div align="center">
 
