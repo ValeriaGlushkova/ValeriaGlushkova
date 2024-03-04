@@ -19,20 +19,11 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redash](https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?logo=clickhouse&logoColor=000&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=fff&style=for-the-badge)
+![AirFlow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=for-the-badge)
 
 </div>
-
-## 🤓 Навыки:
-- SQL: уровень подзапросов и оконных функций.
-- Python:
-  - работа с различными библиотеками,
-  - проведение различных видов анализа:
-    - EDA,
-    - когортный,
-    - RFM и т.д.
-  - анализ А/В тестов
-- Расчет ключевых метрик продукта.
-- Формирование дашбордов.
 
 ## 👋 Связаться со мной: 
 <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/Mindalliri)</a>
